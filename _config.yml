@@ -2,7 +2,7 @@
 title: My Technical Blog
 email: zetsu@domain.com
 description: Um lindo tema feito para jekyll e com o <3
-baseurl: "/blog-technical"
+baseurl: "/blog-tech"
 url: "http://colinbut.github.io"
 
 author:
@@ -12,7 +12,7 @@ author:
   facebook : http://facebook.com/colin.but
   twitter  : http://twitter.com/colin_but
 
-github: https://github.com/colinbut/blog-technical
+github: https://github.com/colinbut/blog-tech
 disqus_shortname: "colinbut"
 google_analytics: UA-52446115-1
 
