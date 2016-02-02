@@ -7,13 +7,13 @@ url: "http://colinbut.github.io"
 
 author:
   name     : 'Colin But'
-  email    : colin.but@hotmail.co.uk 
+  email    : colin.but@hotmail.co.uk
   url      : http://colinbut.github.io
   facebook : http://facebook.com/colin.but
   twitter  : http://twitter.com/colin_but
 
 github: https://github.com/colinbut/blog-tech
-disqus_shortname: "colinbut"
+disqus_shortname: "colinbut-tech-blog"
 google_analytics: UA-52446115-1
 
 paginate: 5
