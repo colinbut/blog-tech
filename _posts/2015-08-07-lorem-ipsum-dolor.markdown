@@ -1,25 +1,32 @@
 ---
 layout: post
-title:  "Lorem ipsum dolor sit amet, consectetuer adipiscing elit"
-date:   2015-08-07 03:00:08
+title:  "What does it mean to be a Full-Stack Developer?"
+date:   2016-01-04 03:00:08
 categories: Lorem
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+The term "Full-Stack" Developer have become very popular in recent years. When i started my career five or six years ago people just simple refer to themselves as simply either Software Developers/Engineers or Web Developers. So what exactly does it mean to be one? I personally feel this is a very opinionated and subjective term that can have many interpretations. Firstly, let me give you my own brief understanding knowledge of this what i feel is a loosely defined term:
 
-Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
+This term is mostly used within the development of web applications (web apps). In most modern web apps you would have a data storage likely to be a database of some sort - it could be a traditional relational database or one of the more unconventional perhaps perceived more modern NoSQL databases. Then you would have a so-called back-end usually written in a object-oriented programming language (Java for e.g.) but not always. It can be other type of programming languages like those either static or dynamic scripting languages such as PHP, Python, Scala, Groovy to name a few. Finally, you would have what people call a 'front-end' made up of mostly client-side technologies such HTML, CSS, and mainly JavaScript.
 
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
+#### Not all software applications are web apps.
+Although it is entirely true that web apps possibly account for majority of software systems out there. I have certainly worked in completely pure non web apps software projects where people label as pure back-end systems. So how does a Full-Stack Developer fit in to these software projects then? I would like to also say that it is also important to know a programming language. An object-oriented programming language like Java (or C#). Or Ruby. Or Python. Or whatever.
 
-Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.
+#### Half Stack?
+And another thing to think about - if you're only capable of developing either only front-end or back-end then what does that make you? Is Half Stack Developer even an official term? Most would say you're either a back-end developer or a front-end developer.
 
-Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc, quis gravida magna mi a libero.
+#### Loving JS
+We all know what JS is right? It is JavaScript. It deserves a mention here purely because its rise in popularity over the past 3 or 4 years. And i have to say, as a developer i have grown up through this period of JavaScript growth. I definitely remember during my later university days towards the official start of my software development career, JavaScript was regarded as a horrible client-side scripting language that works with HTML and would be used specifically for web-dev. How times have changed! JavaScript is no longer being bullied. Many regard them as a top dog!
 
-Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia.
+Just look at the increase in popularity of JavaScript frameworks over the past few years such as AngularJS and ReactJS. Or other front-end web component technologies like Polymer. I'm not going to list all these 'cool' and 'fancy' new front-end technologies/tools here because there are so many. For those of you who are front-end developers or one of those Full-Stack Developers i'm describing in this article who has experience in front-end then you would definitely know what i'm talking about.
 
-Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus.
+JavaScript community is massive. There are even now web-apps that are completely developed in pure JavaScript from back-end right to the front-end (full stack basically). Node.js allows this. Developing "full-stack" web apps is not new of course. It is just that in recent times there are much more appreciation for it.
 
-Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci.
+#### Jack of All Trades
+My observation from my own experience is "Full-Stack" Developers are basically the 'Jack of all Trades' developer. A master of none then? Perhaps. But is this a good or a bad thing? It "depends" and l'll let you decide on this one. Job prospects/opportunities then? Again, it "depends". You're a generalist not a specialist.
 
-Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci.
+#### Summary
+Full-Stack developers are really such people. Many companies are employing them. Companies are listing them as job titles on career websites. My advice for wanting to be a Full-Stack Developer is that you need to be comfortable with a lot of different types of technologies. To conclude, i'll leave with this quote (one of my personal favorite quotes of all times):
+
+"Jack of all trades but Master of none!"
