@@ -33,6 +33,12 @@ Access, [localhost:4000/zetsu](http://localhost:4000/zetsu/)
 1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
 2. Run `rake site:publish` for build and publish on Github
 
+Do note that since the latest `bundle install` it has install the later version of `Rake` hence will need to exec the following `rake` command to deploy now:
+
+```bash
+bundle exec rake site:publish
+```
+
 [Demo](http://nandomoreira.me/zetsu/)
 
 ![Zetsu - free Jekyll theme](/screenshot.png)
